@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [frontend Mentor Order summary card](https://k4astro.github.io/Frontend-Mentor-Order-summary-card/)
+-   Solution URL: [Solution](https://www.frontendmentor.io/solutions/frontend-mentor-order-summary-card-MQPwFu-RN7)
+-   Live Site URL: [Frontend Mentor Order summary card](https://k4astro.github.io/Frontend-Mentor-Order-summary-card/)
 
 ### Built with
 
@@ -29,4 +29,4 @@ Users should be able to:
 
 ## Author
 
--   Frontend Mentor - [@K4astro](https://www.frontendmentor.io/profile/kastro)
+-   Frontend Mentor - [@Kastro](https://www.frontendmentor.io/profile/K4astro)

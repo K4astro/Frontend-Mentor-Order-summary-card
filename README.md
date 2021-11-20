@@ -29,4 +29,4 @@ Users should be able to:
 
 ## Author
 
--   Frontend Mentor - [@kastro](https://www.frontendmentor.io/profile/kastro)
+-   Frontend Mentor - [@K4astro](https://www.frontendmentor.io/profile/kastro)

@@ -69,8 +69,9 @@ main {
     margin: 40px 0 20px;
 }
 
-.text h2 {
+.text h1 {
     font-weight: 900;
+    font-size: 1.5em;
     color: var(--heading-color);
 }
 
@@ -81,7 +82,6 @@ main {
 }
 
 @media screen and (max-width: 375px) {
-
     .text {
         margin: 30px 0 20px;
     }
@@ -91,7 +91,7 @@ main {
         line-height: 1.6;
     }
 
-    .text h2 {
+    .text h1 {
         margin: 0 0 10px;
     }
 }

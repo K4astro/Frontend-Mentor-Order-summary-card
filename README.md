@@ -9,8 +9,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 -   [Built with](#built-with)
 -   [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ### The challenge
 
 Users should be able to:
@@ -20,7 +18,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: f[frontend-Mentor-Order-summary-card](https://k4astro.github.io/Frontend-Mentor-Order-summary-card/)
+-   Live Site URL: [frontend Mentor Order summary card](https://k4astro.github.io/Frontend-Mentor-Order-summary-card/)
 
 ### Built with
 
@@ -31,5 +29,4 @@ Users should be able to:
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+-   Frontend Mentor - [@kastro](https://www.frontendmentor.io/profile/kastro)
